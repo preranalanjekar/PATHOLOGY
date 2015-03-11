@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PATHOLOGY", "PATHOLOGY\PATHOLOGY.vbproj", "{BBE3B078-C52F-4267-89CF-97B7A38B4B89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBE3B078-C52F-4267-89CF-97B7A38B4B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE3B078-C52F-4267-89CF-97B7A38B4B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE3B078-C52F-4267-89CF-97B7A38B4B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE3B078-C52F-4267-89CF-97B7A38B4B89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
